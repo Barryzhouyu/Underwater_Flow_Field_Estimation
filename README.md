@@ -17,3 +17,12 @@ Underwater flow field estimation is critical for marine robot missions, as the s
 •	CNN-Based Prediction: Employs a CNN model to extract meaningful features from visual data and predict flow fields.
 •	Simulation Results: Demonstrates the accuracy of our approach compared to traditional flow estimation techniques.
 •	Integration with NeRF: Our model is flexible and can be integrated with Neural Radiance Fields (NeRF) for future enhancements.
+
+### Getting Started
+
+Prerequisites
+
+	•	Python 3.8x
+	•	PyTorch (depending on the framework used)
+	•	OpenCV for image processing
+	•	NumPy for numerical computations
