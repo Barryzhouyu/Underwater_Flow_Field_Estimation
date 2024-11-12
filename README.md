@@ -1,5 +1,5 @@
-**Underwater Flow Field Estimation Using Vision-Based Motion Tomography (VMT)
-**
+**Underwater Flow Field Estimation Using Vision-Based Motion Tomography (VMT)**
+
 Overview
 
 This repository contains the implementation of our vision-based learning method for underwater flow field estimation. The approach is designed to enhance Autonomous Underwater Vehicle (AUV) navigation by leveraging sporadically available visual sensor data. Our method allows AUVs to estimate unknown flow fields in real-time, even in the absence of direct localization information.
